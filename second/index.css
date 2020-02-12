@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 20px;
+}
+.section-one {
+    width: auto;
+    height: 250px;
+    border: solid peru;
+}
+    .square-one {
+        width: 45px;
+        height: 190px;
+        float: left;
+        margin: 50px 0px 10px 5px;
+        background-color: plum;
+    }
+    
+    .square-two {
+        width: 430px;
+        height: 215px;
+        margin: 20px 20px 20px 50px;
+        float: left;
+        background-color: rosybrown;
+    }
+
+    .circle-one {
+        float: left;
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+        background-color: salmon;
+        margin: 20px 0px 20px 20px;
+    }
+
+    .section-two {
+        width: auto;
+        height: 250px;
+        border: dotted peru;
+        margin: 20px 0px 0px 0px;
+    }
+
+    .shadow-box {
+        width: 1135px;
+        height: 200px;
+        margin: 20px 50px 20px 60px;
+        background-color: saddlebrown;
+        box-shadow: 10px 10px 5px 0px;
+        box-shadow: coral;
+
+        
+    }
+    
+    .section-three {
+        width: 50%;
+  border: 1px solid peru;
+  background-color: white;
+  padding: 100px;
+  box-sizing: border-box ;
+  margin: 50px auto; 
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+  box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+        
+        
+
+    .section-three {
+        width: 50%;
+        text-align: center;
+        color: plum;
+        letter-spacing: 10px;
+    }
