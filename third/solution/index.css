@@ -10,7 +10,8 @@ body, html {
 
 .row-big {
   height: 200px;
-  width: 100%;
+  width: 300px;
+  padding: 50%;
 }
 
 .row-1 {
